@@ -1,8 +1,9 @@
-## FNF Play Engine
-![Play Engine logo](logo.png)
-- Play Engine is FNF Engine what adds new features to original Friday Night Funkin' game
+## FNF Stupid Engine
+![Senza titolo 185_20241017165157](https://github.com/user-attachments/assets/7cf247bc-fee3-4b13-8811-d52ff8669c4e)
+
+- Stupid Engine is FNF Engine what adds new features to original Friday Night Funkin' game
 # WARNING!!!
-- Play Engine is on very early development state! You can request new features though pull requests.
+- Stupid Engine is on very early development state! You can request new features though pull requests.
 - Please Tell If You Have ISSUES with engine so we'll fix it as fast as possible!
 # Features
 - Updated HUD
